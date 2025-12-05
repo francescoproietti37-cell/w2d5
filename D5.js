@@ -4,13 +4,13 @@ REGOLE
 - Puoi usare Google / StackOverflow ma solo quanto ritieni di aver bisogno di qualcosa che non è stato spiegato a lezione
 - Puoi testare il tuo codice in un file separato, o de-commentando un esercizio alla volta
 - Per visualizzare l'output, lancia il file HTML a cui è collegato e apri la console dagli strumenti di sviluppo del browser. 
-- Utilizza dei console.log() per testare le tue variabili e/o i risultati delle espressioni che stai creando.
+- Utilizzaaaaaaaaaaaa dei console.log() per testare le tue variabili e/o i risultati delle espressioni che stai creando.
 */
 
 /* ESERCIZIO 1
     Dato il seguente array, scrivi del codice per stampare ogni elemento dell'array in console.
 */
-const pets = ['dog', 'cat', 'hamster', 'redfish']
+const pets = ["dog", "cat", "hamster", "redfish"]
 
 /* ESERCIZIO 2
     Scrivi del codice per ordinare alfabeticamente gli elementi dell'array "pets".
@@ -29,22 +29,22 @@ const pets = ['dog', 'cat', 'hamster', 'redfish']
 */
 const cars = [
   {
-    brand: 'Ford',
-    model: 'Fiesta',
-    color: 'red',
-    trims: ['titanium', 'st', 'active'],
+    brand: "Ford",
+    model: "Fiesta",
+    color: "red",
+    trims: ["titanium", "st", "active"],
   },
   {
-    brand: 'Peugeot',
-    model: '208',
-    color: 'blue',
-    trims: ['allure', 'GT'],
+    brand: "Peugeot",
+    model: "208",
+    color: "blue",
+    trims: ["allure", "GT"],
   },
   {
-    brand: 'Volkswagen',
-    model: 'Polo',
-    color: 'black',
-    trims: ['life', 'style', 'r-line'],
+    brand: "Volkswagen",
+    model: "Polo",
+    color: "black",
+    trims: ["life", "style", "r-line"],
   },
 ]
 
@@ -75,4 +75,4 @@ const numericArray = [
     dell'alfabeto italiano.
     es. [f, b, e] --> [6, 2, 5]
 */
-const charactersArray = ['g', 'n', 'u', 'z', 'd']
+const charactersArray = ["g", "n", "u", "z", "d"]
